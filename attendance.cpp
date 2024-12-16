@@ -371,7 +371,7 @@ void mainMenu()
     while (opt != 4)
     {
         cout << "------ MAIN MENU -------" << endl;
-        cout << "1. Issues about student details" << endl;
+        cout << "1. Issue about student details" << endl;
         cout << "2. Make an attendance" << endl;
         cout << "3. Account details" << endl;
         cout << "4. Exit" << endl;
